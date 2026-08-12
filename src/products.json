@@ -1,0 +1,13 @@
+[
+  {
+    "id": "1",
+    "name": "Camisa Profissional Manga Curta",
+    "price": 35.00,
+    "description": "Excelente para o dia a dia corporativo.",
+    "colors": ["#FFFFFF", "#000000", "#003366"],
+    "sizes": ["S", "M", "L", "XL"],
+    "image": "https://camisa.jpg",
+    "caution": "Manter longe de fontes de calor. Lavar à mão ou em ciclo delicado.",
+    "category": "Fardamentos"
+  }
+]
